@@ -1,6 +1,6 @@
 # TP1DPBO2022
 
-*Saya Hafizh Lutfi Hidayat mengerjakan Latihan 5 dalam mata kuliah
+*Saya Hafizh Lutfi Hidayat mengerjakan TP 1 dalam mata kuliah
 Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya
 tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*
 
